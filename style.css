@@ -74,6 +74,7 @@ button {
 }
 button:hover {
   background-color: hsl(158, 37%, 21%);
+  cursor: pointer;
 }
 
 .cart {
